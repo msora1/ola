@@ -2,11 +2,9 @@
 
 <style>
  h2{
- 
- font-size:50px;
+ font-size:500px;
   font-family:lobster;
   }
-  
   </style>
 <h2> Morad Sawara                     doesnt matter</h2>
 
