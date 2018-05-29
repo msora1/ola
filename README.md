@@ -2,7 +2,7 @@
 
 <style>
  h2{
- font-size:500px;
+ font-size:5000px;
   font-family:lobster;
   }
   </style>
