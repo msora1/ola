@@ -9,6 +9,7 @@
  color: orange;
  padding: 10px;
  }
+ 
  .fa {
     padding: 20px;
     font-size: 30px;
@@ -19,9 +20,19 @@
 .fa:hover {
     opacity: 0.7;
 }
+
 .fa-facebook {
     background: #3B5998;
     color: white;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
 }
  
  
