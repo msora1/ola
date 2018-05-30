@@ -49,8 +49,9 @@
 
 <a href="#">Home</> | <a href=" ">About Me </a>
     
-		
+<div id="picture">		
   <img src="website.jpg" alt="not me">
+	</div>
   
 <h2 class="about">  about</h2>
 <a href="#" class="fa fa-facebook"></a>
