@@ -32,7 +32,7 @@
     width: 30px;
     text-align: center;
     text-decoration: none;
-    border-radius: 50%;
+    border-radius: 70%;
 }
  
  
