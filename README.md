@@ -47,7 +47,7 @@
   </style>
   
 
-<a href="#">Home</> | <a href=" ">About Me </a>
+<a href="#">Home</a> | <a href=" ">About Me </a>
     
 <div id="picture">		
   <img src="website.jpg" alt="not me">
@@ -55,10 +55,11 @@
   
 <h2 class="about">  about</h2>
 <a href="#" class="fa fa-facebook"></a>
-
+<div id="left-column">
+	<div id="main bio">
 <p align="center"> about me im a 21 year old someone from somehwere who doesnt bla bla bla................................
 ........................................</p>
-
+	</div>
 
 
 
