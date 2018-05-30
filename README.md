@@ -47,7 +47,7 @@
   </style>
   
 
-<a href="#">Home</a> | <a href=" ">About Me </a>
+<a href="#">Home</a> | <a href=" ">About Me </a> | <a href="https://www.facebook.com/morad.sawara?ref=bookmarks ">Facebook</a>
     
 <div id="picture">		
   <img src="website.jpg" alt="not me">
@@ -64,6 +64,7 @@
 
 <div id="right-column">
 <div id="main-image"><img src="#" width="160" height="188" /></div>
+	
 
 
 
