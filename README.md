@@ -46,7 +46,7 @@
 <h2 class="about">  about</h2>
 <a href="#" class="fa fa-facebook"></a>
 
-<p> about me im a 21 year old someone from somehwere who doesnt bla bla bla................................
+<p align="center"> about me im a 21 year old someone from somehwere who doesnt bla bla bla................................
 ........................................</p>
 
 
