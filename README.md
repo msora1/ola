@@ -50,7 +50,6 @@
 <a href="#">Home</a> | <a href=" ">About Me </a> | <a href="https://www.facebook.com/morad.sawara?ref=bookmarks ">Facebook</a>
     
 <div id="picture">		
-  <img src="website.jpg" alt="not me">
 	</div>
   
 <h2 class="about">  about</h2>
@@ -62,7 +61,7 @@
 <p align="center"> about me im a 21 year old someone from somehwere who doesnt bla bla bla................................
 ........................................</p></div>
 
-<div id="right-column">
+<div id="right-column">?
 <div id="main-image"><img src="#" width="160" height="188" /></div>
 	
 
