@@ -3,15 +3,15 @@
 <style>
  
  .about{
- background-color: orange;
- color: white;
+ background-color: silver;
+ color: orange;
  padding: 10px;
  }
  
- h2 {
+ <!-- h2 {
   font-size: 1300%;
   font-family:lobster;
-  }
+  } -->
  
   </style>
   
