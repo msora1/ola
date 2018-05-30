@@ -55,11 +55,15 @@
   
 <h2 class="about">  about</h2>
 <a href="#" class="fa fa-facebook"></a>
+
 <div id="left-column">
-	<div id="main bio">
+<div id="main bio">
+
 <p align="center"> about me im a 21 year old someone from somehwere who doesnt bla bla bla................................
-........................................</p>
-	</div>
+........................................</p></div>
+
+<div id="right-column">
+<div id="main-image"><img src="#" width="160" height="188" /></div>
 
 
 
