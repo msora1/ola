@@ -3,6 +3,10 @@
 
 <style>
  
+ img{
+ float: left; 
+ }
+ 
  .about{
  background-color: silver;
  color: orange;
@@ -41,7 +45,7 @@
   } -->
  
   </style>
-  <ig src="website.jpg" alt="not me">
+  <img src="website.jpg" alt="not me">
   
 <h2 class="about">  about</h2>
 <a href="#" class="fa fa-facebook"></a>
