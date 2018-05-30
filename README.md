@@ -45,6 +45,14 @@
   } -->
  
   </style>
+  
+ 
+  <div id="wrapper">
+    
+	<div id="header">
+		<div id="nav"><a href="index.html">Home</a> | <a href="#">About Me</a> | <a href="#">Contact Me</a> | <a href="#">My Photos</a> | <a href="#">My Videos</a></div>
+		<div id="bg"></div>
+	</div>
   <img src="website.jpg" alt="not me">
   
 <h2 class="about">  about</h2>
